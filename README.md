@@ -23,7 +23,7 @@ npm install
 3. launch app locally
 
 ```bash
-nom run dev
+npm run dev
 ```
 
 And now you should be able to go to http://localhost:3000 in browser and see demo application.
